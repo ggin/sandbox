@@ -3,6 +3,9 @@ buildscript {
         jcenter()
     }
 }
+
+group = "ggin.sandbox"
+
 subprojects {
     repositories {
         jcenter()
